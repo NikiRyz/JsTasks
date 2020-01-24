@@ -12,7 +12,7 @@ git add -A
 4. Коммит(фиксируем изменения)
 git commit -m "Initial commit."
 
-5.git push origin master
+5. git push origin master
 
 6. Клонировать репозиторий: git clone
 
